@@ -3,6 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  griko1996@gmail.com
+  https://vk.com/id191041702
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
