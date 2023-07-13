@@ -1,10 +1,11 @@
 <h1 align="center">Привет всем меня зовут Григорий 👋</h1>
 <h3 align="center">Я frontend-разработчик</h3>
 
-<h3 align="left">Мои контакты:</h3>
+<h3 align="left">Мои контакты в соцсетях:</h3>
 <ul align="left">
+  <li><a href="https://t.me/grigory_griko">Телеграм</a></li>
+  <li><a href="https://vk.com/id191041702">ВК</a></li>
   <li>griko1996@gmail.com</li>
-  <li>https://vk.com/id191041702</li>
 </ul>
 
 <h3 align="left">Мой стек:</h3>
