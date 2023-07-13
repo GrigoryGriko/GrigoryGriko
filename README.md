@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Grigory</h1>
-<h3 align="center">A frontend developer</h3>
+<h1 align="center">Привет всем меня зовут Григорий 👋</h1>
+<h3 align="center">Я frontend-разработчик</h3>
 
 <h3 align="left">Connect with me:</h3>
 <ul align="left">
