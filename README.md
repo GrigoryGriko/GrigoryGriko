@@ -11,7 +11,7 @@
 <h3 align="left">Мои контакты:</h3>
 <ul align="left">
   <li><a href="https://t.me/grigory_griko">Телеграм</a></li>
-  <li><a href="https://vk.com/id191041702">ВК</a></li>
+  <li><a href="https://vk.com/id191041702"><img src="https://api.iconfinder.com/v2//icons/8726565/formats/svg/9428187/download" alt="html5" width="40" height="40"/></a></li>
   <li>griko1996@gmail.com</li>
 </ul>
 
