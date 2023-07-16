@@ -1,4 +1,4 @@
-<h1 align="center">Привет всем меня зовут Григорий 👋</h1>
+<h1 align="center">Привет всем? меня зовут Григорий 👋</h1>
 
 <h3 align="left">Я frontend-разработчик:</h3>
 <ul align="left">
@@ -10,7 +10,7 @@
 
 <h3 align="left">Мои контакты:</h3>
 <ul align="left" style="display:flex; list-style-type:none;">
-  <li><a href="https://t.me/grigory_griko">https://cdn-icons-png.flaticon.com/128/2111/2111646.png</a></li>
+  <li><a href="https://t.me/grigory_griko"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="html5" width="40" height="40"/></a></li>
   <li><a href="https://vk.com/id191041702"><img src="https://api.iconfinder.com/v2//icons/8726565/formats/svg/9428187/download" alt="html5" width="40" height="40"/></a></li>
   <li>griko1996@gmail.com</li>
 </ul>
