@@ -12,7 +12,7 @@
 <p align="left">
   <a href="https://t.me/grigory_griko"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="html5" width="40" height="40"/></a>
   <a href="https://vk.com/id191041702"><img src="https://api.iconfinder.com/v2//icons/8726565/formats/svg/9428187/download" alt="html5" width="40" height="40"/></a>
-  <p>Email: griko1996@gmail.com</p>
+   <a href="mailto:griko1996@gmail.com"><img src="https://s1.iconbird.com/ico/1012/PlexIcons/w512h5121350249248gmail.png" alt="html5" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Мой стек:</h3>
